@@ -1709,7 +1709,7 @@ micro_wake_word:
     # CUSTOM
     - model: https://github.com/kahrendt/microWakeWord/releases/download/v2.1_models/alexa.json
       id: alexa
-    - model: https://github.com/fuzzysb/micro-wake-word-glados/blob/main/models/GLaDOS.json
+    - model: https://github.com/fuzzysb/micro-wake-word-glados/releases/download/latest/GLaDOS.json
       id: glados
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
